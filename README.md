@@ -1,2 +1,2 @@
 # ikt
-# github szero
+# github szerver
